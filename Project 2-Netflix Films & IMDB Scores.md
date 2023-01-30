@@ -3,8 +3,10 @@ You can find the dataset from: https://www.kaggle.com/datasets/luiscorter/netfli
 I also uploaded the dataset to the repository.
 
 The questions are:
+
 • In which language were the long-run movies were created according to the dataset? 
 Visualize it.
+
 • Find and visualize the IMDB values of the movies shot in the 'Documentary' genre between January 2019 and June 2020.
 • The genre of the English movie with the highest IMDB rating.
 • Average 'Runtime' of movies shot in 'Hindi'
