@@ -31,7 +31,15 @@ Show it with visualization.
 
 • In which year was the most movies released?
 
-•
+• Which language movies has the lowest average IMDB rating?
+Show it with visualization
+
+• Which year has the highest total "Runtime"?
+
+• What is the most used "Genre" for each language?
+
+• Is there any outlier data in the data set? Please explain.
+
 
 Sorular şu şekildedir:
 
