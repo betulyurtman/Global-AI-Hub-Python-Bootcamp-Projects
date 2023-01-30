@@ -5,24 +5,32 @@ I also uploaded the dataset to the repository.
 The questions are:
 
 • In which language were the long-run movies were created according to the dataset? 
-Visualize it.
+Show it with visualization.
 
 • Find and visualize the IMDB values of the movies shot in the 'Documentary' genre between January 2019 and June 2020.
 
 • The genre of the English movie with the highest IMDB rating.
 
-• Average 'Runtime' of movies shot in 'Hindi'
+• What is the average 'Runtime' of movies shot in 'Hindi' language?
 
-• How many "Genre" categories are there and which categories they are? 
+• How many "Genre" categories are there and which categories are they? 
 Show it with visualization.
 
 • Find the 3 most used language in the movies from the dataset.
 
-•
-•
-•
-•
-•
+• What are the top 10 movies with the highest IMDB Score?
+
+• What is the correlation between IMDB score and 'Runtime'?
+Examine and show it with visualization.
+
+• What are the top 10 movies with the highest IMDB Score in "Genre" category?
+Show it with visualization.
+
+• What are the top 10 movies with the highest "Runtime"?
+Show it with visualization.
+
+• In which year was the most movies released?
+
 •
 
 Sorular şu şekildedir:
